@@ -1,0 +1,33 @@
+Existem várias fontes gratuitas de datasets que você pode usar para treinar suas IAs. Aqui estão algumas das melhores opções:
+
+1. Kaggle
+Link: https://www.kaggle.com/datasets
+Kaggle oferece uma ampla variedade de datasets em várias áreas, como visão computacional, processamento de linguagem natural, aprendizado supervisionado e não supervisionado. Você pode filtrar por tipo de dado, tamanho, e também participar de competições para treinar modelos em diferentes cenários.
+2. UCI Machine Learning Repository
+Link: https://archive.ics.uci.edu/ml/index.php
+O repositório de aprendizado de máquina da UCI oferece diversos datasets para pesquisa e desenvolvimento em IA, com temas que abrangem desde problemas clássicos de classificação até análise de séries temporais.
+3. Google Dataset Search
+Link: https://datasetsearch.research.google.com/
+Google Dataset Search é uma ferramenta útil para encontrar datasets disponíveis publicamente na web. Ela busca em várias fontes e permite que você refine suas buscas de acordo com seu projeto.
+4. OpenML
+Link: https://www.openml.org/
+OpenML é uma plataforma onde você pode encontrar datasets, colaborar em experimentos e compartilhar resultados. Ela também permite que você execute experimentos diretamente na plataforma.
+5. AWS Public Datasets
+Link: https://registry.opendata.aws/
+A AWS oferece uma coleção de datasets públicos que você pode usar gratuitamente, muitos dos quais são grandes e destinados a tarefas como aprendizado de máquina, big data e análise de dados.
+6. Data.gov
+Link: https://www.data.gov/
+O Data.gov oferece uma vasta coleção de datasets públicos, principalmente do governo dos EUA, abrangendo vários setores como saúde, educação, ciência, e mais.
+7. Microsoft Research Open Data
+Link: https://www.microsoft.com/en-us/research/open-data/
+A Microsoft oferece vários conjuntos de dados em diferentes áreas, como inteligência artificial, aprendizado de máquina, ciência da computação, e mais.
+8. Awesome Public Datasets
+Link: https://github.com/awesomedata/awesome-public-datasets
+Este repositório no GitHub contém uma lista de datasets públicos de várias fontes organizados por categoria (como finanças, saúde, IA, etc.).
+9. BigQuery Public Datasets (Google Cloud)
+Link: https://cloud.google.com/bigquery/public-data
+O Google Cloud oferece uma grande coleção de datasets públicos em BigQuery, que pode ser acessada diretamente pela plataforma, permitindo explorar grandes volumes de dados.
+10. ImageNet
+Link: http://www.image-net.org/
+Para tarefas de visão computacional, o ImageNet é um dos maiores datasets de imagens anotadas para treinamento de modelos de reconhecimento de objetos.
+Essas fontes são boas opções para você começar a treinar suas IAs com datasets de alta qualidade. Se precisar de mais alguma recomendação específica, estou à disposição!
