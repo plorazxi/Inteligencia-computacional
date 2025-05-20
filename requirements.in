@@ -9,3 +9,6 @@ scipy
 six
 IPython
 pydotplus
+jupyter
+jupyterlab
+ipykernel
